@@ -1,2 +1,0 @@
-this is the first view of my project
-this is changed now
